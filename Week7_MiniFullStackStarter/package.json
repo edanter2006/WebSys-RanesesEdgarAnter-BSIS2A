@@ -1,0 +1,31 @@
+{
+  "name": "iselec2-a-1s2627",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^18.0.6",
+    "express": "^5.2.1",
+    "mongoose": "^9.11.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edanter2006/IT-112_Week7_FullStackStarter_Lab.git"
+  },
+  "bugs": {
+    "url": "https://github.com/edanter2006/IT-112_Week7_FullStackStarter_Lab/issues"
+  },
+  "homepage": "https://github.com/edanter2006/IT-112_Week7_FullStackStarter_Lab#readme"
+}
